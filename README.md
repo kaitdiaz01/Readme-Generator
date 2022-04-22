@@ -5,29 +5,31 @@
 
 ## Description
 
-I WANT a README generator
+In this project I learned how to use node.js to create a readme generator.
 
 ## Table of Contents 
 
 - [Installation](#installation)
-- [Usage](#Usage)
-- [License](#License)
-- [Credits](#Credits)
-- [Test](#Test)
-- [Questions](#Questions)
+- [Usage](#usage)
+- [License](#license)
+- [Credits](#credits)
+- [Test](#test)
+- [Questions](#questions)
 
 
 ## Installation
 
-In order to install this use npm install
+In order to install this the code below in your command line.
 
 `npm install`
 
 ## Usage
 
-Please be kind i am only a junior developer :).
+Please be kind I am only a junior developer :).
+
+See a screenshot below of my work!
    
-![alt text](.assets/Images/screenshot.png)
+![screenshot](./assets/Images/readmescreenshot.png)
    
 ## License 
 
@@ -44,8 +46,8 @@ If you wish to see my work you can view my github at https://github.com/kaitdiaz
 
 If you wish to run tests use the command below
 
-Use undefined
+Use `npm test`
 
 ## Questions
 
-If you have any questions contact me at katediaz011@gmail.com and 
+If you have any questions contact me at katediaz011@gmail.com.

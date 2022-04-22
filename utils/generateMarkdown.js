@@ -51,7 +51,7 @@ ${data.description}
 
 ## Installation
 
-In order to install this use npm install
+In order to install this the code below in your command line.
 
 ${data.dependencies}
 
@@ -59,7 +59,7 @@ ${data.dependencies}
 
 ${data.repo}
    
-![screenshot](.assets/Images/readmescreenshot.png)
+![screenshot](./assets/Images/readmescreenshot.png)
    
 ## License 
 
@@ -79,7 +79,7 @@ Use ${data.tests}
 
 ## Questions
 
-If you have any questions contact me at ${data.email} and `;
-}
+If you have any questions contact me at ${data.email}.`
+;}
 
 module.exports = generateMarkdown;
